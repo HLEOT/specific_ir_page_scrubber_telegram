@@ -1,0 +1,11 @@
+{
+  "drugName": "GTx-104",
+  "companyName": "Grace Therapeutics",
+  "expectedDecisionDate": "2026-04-23",
+  "telegram": {
+    "enabled": true,
+    "botToken": "1234567890:REPLACE_ME",
+    "chatId": "-1001234567890",
+    "mentionText": ""
+  }
+}
